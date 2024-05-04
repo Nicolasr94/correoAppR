@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3{
+    background-color: #581f;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+button{
+    border-style: none;
+    border-radius: 4px ;
+    height: 2rem;
+    width: 9rem;
+    margin: .5em;
+    background-color: #8008;
+}
